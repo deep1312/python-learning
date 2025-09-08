@@ -41,7 +41,7 @@ python-learning/
 
 🚀 Progress Tracking
 
-Programs completed: 27 / 140
+Programs completed: 35 / 140
 
 Currently working on: Core Syntax & Data Structures
 
